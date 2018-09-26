@@ -1,0 +1,10 @@
+jdbc:
+  driveClass: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://127.0.0.1:3306/company?serverTimezone=Asia/Shanghai&useSSL=false&useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=CONVERT_TO_NULL&autoReconnect=true&failOverReadOnly=false&allowMultiQueries=true
+  username: root
+  password: abcd1234
+check:
+  table:
+    name: bc_coupon_inst
+foo: prodname
+
