@@ -2,9 +2,9 @@ jdbc:
   driveClass: com.mysql.cj.jdbc.Driver
   url: jdbc:mysql://127.0.0.1:3306/company?serverTimezone=Asia/Shanghai&useSSL=false&useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=CONVERT_TO_NULL&autoReconnect=true&failOverReadOnly=false&allowMultiQueries=true
   username: root
-  password: 123456-refresh
+  password: '{cipher}8bc31a8d2ce4161a692a09e67c55755051f000303aa3e1d1de902f5c821bc9bf'
 check:
   table:
     name: bc_coupon_inst
-foo: devname-refresh
+foo: devname-加密
 
