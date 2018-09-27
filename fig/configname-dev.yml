@@ -1,7 +1,7 @@
 jdbc:
   driveClass: com.mysql.cj.jdbc.Driver
   url: jdbc:mysql://127.0.0.1:3306/company?serverTimezone=Asia/Shanghai&useSSL=false&useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=CONVERT_TO_NULL&autoReconnect=true&failOverReadOnly=false&allowMultiQueries=true
-  username: root-bus
+  username: root-bus-2
   password: '{cipher}AQBZMI9bp45xQHEhsQAxjwvssadX4oNFVU1v+D6l9/NMN+QZ0YsmUyqaIOcfubQjpFoN/GX04Upd/SDPDl0r/vLBDcXSiFZtmIeOzksY3+K79O9ng71OnE5OiW331afz/zj5LpmZvH4SrrIlc/yzeIpJn6GBHpKPkGJnR17apyFYlND4KWHgstrvzmWeL7ShiYFlxwqqcczchpHNKwfzS8Xzx5GAnxA0f1lCmn4ZmLC6aFkX6q2K/ze7s3eepGQlkhESzkMlBY+IL8jkcT6dKRRfokQfVRxBNidpg3CbCufup6eIBL1ZeNS+8scv4y+i6gaj5Ahp6MMbGGViloy3rGWFrNt4raoC8iFhZH0X70DRWbJ0TMCOofcs7W8sewMBdXo='
 check:
   table:
